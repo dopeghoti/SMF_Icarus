@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<theme-info xmlns="http://www.simplemachines.org/xml/theme-info" xmlns:smf="http://www.simplemachines.org/">
+	<id>^HeRaCLeS^:Adk_CoolBlack</id>
+	<version>2.0.2</version>
+	<name>Adk Cool Black</name>
+	<author name="^HeRaCLeS^">heracles@smfpersonal.net</author>
+	<website>http://www.smfpersonal.org/</website>
+	<layers>html,body</layers>
+	<templates>index</templates>
+	<based-on></based-on>
+</theme-info>
